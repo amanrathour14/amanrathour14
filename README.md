@@ -1,5 +1,4 @@
-
-- # Hi there, I'm Aman Rathour! 👋
+# Hi there, I'm Aman Rathour! 👋
 
 ## 📌 About Me
 I'm a final-year **Computer Science and Engineering** student at **VIT Bhopal**, passionate about **Data Analytics, AI/ML, and Web Development**. I love solving complex problems and leveraging technology to create impactful solutions.
