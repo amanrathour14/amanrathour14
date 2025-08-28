@@ -8,19 +8,12 @@ Welcome to my GitHub profile!
 - **Bachelor of Technology, Computer Science and Engineering**
   - Vellore Institute of Technology, Bhopal
   - CGPA: 8.11/10 (June 2025)
-- **Senior Secondary (The Aryan's School, Jhansi)**
-  - 84% (June 2021)
-- **Secondary (Jai Academy, Jhansi)**
-  - 80.82% (May 2019)
 
 ---
 
 ## 💼 Experience
 - **Software Developer, Adjecti Solutions Pvt. Ltd.**  
   _Jan 2025 – Present | Noida, India_
-  - Developing full-stack web applications using Spring Boot, leveraging MVC architecture, dependency injection, and RESTful API design.
-  - Developed an AI-powered E-Commerce Customer Support Chatbot with FastAPI backend, React + TypeScript frontend, and Groq LLM for intelligent, context-aware responses.
-  - Delivered a Client Management System with end-to-end functionality through JSON-based REST APIs.
 
 ---
 
