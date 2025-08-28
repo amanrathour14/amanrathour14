@@ -1,55 +1,78 @@
 # 👋 Hi there! I'm Aman Rathour
 
-Welcome to my GitHub profile!  
-I'm passionate about building impactful projects, learning new technologies, and collaborating with developers around the world.
+Welcome to my GitHub profile!
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on: _[Your current focus or project goes here]_  
-- 🌱 Always learning: _[Technologies or concepts you are learning]_  
-- 👯 Looking to collaborate on: _[Types of projects or domains]_  
-- 💬 Ask me about: _[Topics you love discussing]_  
-- 📫 How to reach me: _[Your preferred contact method]_  
-- 😄 Pronouns: _[Your pronouns, e.g., he/him, she/her, they/them]_  
-- ⚡ Fun fact: _[Something fun or unique about you]_  
-
----
-
-## 🛠️ Languages & Tools
-
-![Your Skills Badge 1](https://img.shields.io/badge/-Skill1-333?style=flat&logo=skill1&logoColor=white)
-![Your Skills Badge 2](https://img.shields.io/badge/-Skill2-333?style=flat&logo=skill2&logoColor=white)
-![Your Skills Badge 3](https://img.shields.io/badge/-Skill3-333?style=flat&logo=skill3&logoColor=white)
-<!-- Add or remove badges as appropriate -->
+## 🎓 Education
+- **Bachelor of Technology, Computer Science and Engineering**
+  - Vellore Institute of Technology, Bhopal
+  - CGPA: 8.11/10 (June 2025)
+- **Senior Secondary (The Aryan's School, Jhansi)**
+  - 84% (June 2021)
+- **Secondary (Jai Academy, Jhansi)**
+  - 80.82% (May 2019)
 
 ---
 
-## 📈 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanrathour14&show_icons=true&theme=radical)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat&logo=githubpages&logoColor=white)](your-portfolio-url)
-<!-- Add more social or contact links as needed -->
+## 💼 Experience
+- **Software Developer, Adjecti Solutions Pvt. Ltd.**  
+  _Jan 2025 – Present | Noida, India_
+  - Developing full-stack web applications using Spring Boot, leveraging MVC architecture, dependency injection, and RESTful API design.
+  - Developed an AI-powered E-Commerce Customer Support Chatbot with FastAPI backend, React + TypeScript frontend, and Groq LLM for intelligent, context-aware responses.
+  - Delivered a Client Management System with end-to-end functionality through JSON-based REST APIs.
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Projects
 
-- **[Project Name 1](project-link-1):** _Short description of your project._
-- **[Project Name 2](project-link-2):** _Short description of your project._
-- **[Project Name 3](project-link-3):** _Short description of your project._
-<!-- Highlight your best or favorite repositories here -->
+### ShopBot : Integrated E-commerce Customer Support Chatbot
+_Tools: Python, Flask, HTML, CSS, JavaScript, React, REST APIs, MongoDB, Git, Postman_
+- Automated 70% of customer queries, reduced response time from 6 minutes to under 1 minute, and improved customer satisfaction by 35%.
+- Built a chatbot to handle order tracking, returns, and product FAQs, integrating NLP models and Dialogflow, with fallback escalation to human agents.
+
+### SwasthRail : Comprehensive Healthcare Management System
+_Tools: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, Power BI_
+- Led a 5-member team to develop a healthcare system for Indian Railways employees and families.
+- Reduced appointment wait times by 70% and improved healthcare access for millions.
+
+### Vikreta : E-Commerce Platform for Local Craftsmen
+_Tools: MERN Stack (MongoDB, Express.js, React, Node.js)_
+- Enabled 50+ artisans to sell products online, increasing sales by 40% in the first quarter post-launch.
+- Built a digital marketplace bridging traditional craftsmanship with wider online reach.
+
+---
+
+## 🛠️ Skills
+- **Programming Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring Data JPA, Spring MVC, REST APIs
+- **Frontend:** HTML, CSS, JavaScript, React, Angular 19
+- **Soft Skills:** Team Leadership, Communication, Problem-Solving, Time Management, Adaptability
+
+---
+
+## 🥇 Certifications
+- **Amazon Web Services:** AWS Certified Cloud Practitioner
+- **HackerRank:** SQL Certification (Basic & Intermediate)
+
+---
+
+## 🤝 Positions of Responsibility
+- **Co-Founder & Vice President, Internet of Things Club, VIT Bhopal** (Aug 2022 – Oct 2023)
+  - Built and led a 45+ member core team and organized events for 200+ volunteers.
+  - Organized workshops, hackathons, coding contests, and technical discussions.
+  - Established the university’s most active technical community.
+
+---
+
+## 📫 Contact & Links
+- 📞 +91-6386072423  
+- ✉️ [amanrathour225@gmail.com](mailto:amanrathour225@gmail.com)  
+- [LinkedIn](https://linkedin.com/in/aman-rathour-vitb/)  
+- [GitHub](https://github.com/amanrathour14)
 
 ---
 
 > _“The best way to predict the future is to invent it.”_ — Alan Kay
 
-Thanks for visiting my profile! ⭐️
+Thank you for visiting my profile! ⭐️
